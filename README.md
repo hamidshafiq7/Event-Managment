@@ -1,4 +1,4 @@
-```markdown
+
 # Event Planning & Operations Management System
 
 A robust, relational Database Management System (DBMS) built with a **Flask (Python)** backend and a **MariaDB / MySQL (XAMPP)** storage engine. This system manages corporate and private event bookings, handles venue allocation, tracks resource provisioning, and automatically compiles dynamic financial valuations using relational database schemas.
